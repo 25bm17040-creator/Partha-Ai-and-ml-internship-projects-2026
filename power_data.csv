@@ -1,0 +1,6 @@
+wind_speed,blade_angle,rotor_speed,power_output
+5,11,125,48
+7,9,155,72
+9,15,175,101
+11,13,220,142
+13,18,235,176
